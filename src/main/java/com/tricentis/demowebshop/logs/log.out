@@ -1,0 +1,4 @@
+2024-12-16 11:12:205 INFO  HomePage :47 - Click on loginLink : Log in
+2024-12-16 11:12:709 INFO  HomePage :52 - Enter EmailId 'primefivetest@yahoo.com' to email field : 
+2024-12-16 11:12:794 INFO  HomePage :63 - Enter Password 'abc123' to password field : 
+2024-12-16 11:12:151 INFO  HomePage :73 - Click on loginButton
